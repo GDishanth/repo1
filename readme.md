@@ -1,2 +1,6 @@
 # ReadMe 
 
+## Partie 1 : 
+
+... 
+
